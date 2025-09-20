@@ -5,7 +5,6 @@
 This project is a real-time object detection application that uses a webcam to identify and classify objects in the video stream. It is built with Python and OpenCV, and the interactive web interface is powered by Streamlit.
 
 ![Live Object Detection GIF](https://i.imgur.com/your-gif-url.gif)
-*Replace the link above with a GIF of your working application for a great demonstration!*
 
 ---
 
