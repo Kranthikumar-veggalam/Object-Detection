@@ -8,7 +8,7 @@ import av
 @st.cache_resource
 def load_model():
     """Loads the object detection model and class names."""
-    try
+    try :
         pbtxt_file = 'ssd_mobilenet_v2_coco_2018_03_29.pbtxt'
         pb_file = 'frozen_inference_graph.pb'
         net = cv2.dnn.readNetFromTensorflow(pb_file, pbtxt_file)
