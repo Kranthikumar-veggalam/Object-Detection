@@ -6,7 +6,6 @@ This project is a real-time object detection application that uses a webcam to i
 
 ![Live Object Detection GIF](https://i.imgur.com/your-gif-url.gif)
 
----
 
 ## 🚀 Features
 
@@ -33,7 +32,7 @@ To run this project on your own machine, follow these steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Kranthikumar-veggalam/Object-Detection.git](https://github.com/Kranthikumar-veggalam/Object-Detection.git)
+    git clone git clone [https://github.com/Kranthikumar-veggalam/Object-Detection.git](https://github.com/Kranthikumar-veggalam/Object-Detection.git)
     cd Object-Detection
     ```
 
